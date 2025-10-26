@@ -1,5 +1,5 @@
 # BREACH 2025 🚀  
-### Gujarat’s Largest Fintech Hackathon under PDEU’s Flagship TechnoEconomics Fest "ECONOMANIA"  
+### Gujarat’s Biggest Fintech Hackathon under PDEU’s Flagship TechnoEconomics Fest "ECONOMANIA"  
 
 <p align="center">
 <img src="https://github.com/being-sumer/Breach-2025/blob/main/assets/Economania_Logo.jpg" width="300">
@@ -10,7 +10,7 @@
 
 ## 🌟 Overview  
 **Economania 2025**, hosted by Anirveda – The TechnoEconomics Club of PDEU, was a **three-day national-scale festival** blending economics, technology, and innovation.  
-The highlight event was **BREACH 2025**, Gujarat’s largest fintech hackathon, with 500+ registrations across 52 universities, ₹6.5L raised in funds/sponsorships, and 20+ industry experts as judges and mentors.  
+The highlight event was **BREACH 2025**, Gujarat’s biggest fintech hackathon, with 500+ registrations across 52 universities, ₹6.5L raised in funds/sponsorships, and 20+ industry experts as judges and mentors.  
 
 📌 **Milestone:** This was **PDEU’s first-ever hackathon**, and the **first time a student club independently raised ₹6.5 lakhs** in sponsorships and partnerships.  
 
@@ -71,7 +71,7 @@ The project was executed over **6 months**:
 
 ## 📅 Event Structure  
 
-- **BREACH 2025** – Gujarat’s largest fintech hackathon (flagship, 52-hour sprint)  
+- **BREACH 2025** – Gujarat’s biggest fintech hackathon (flagship, 52-hour sprint)  
 - **Parallel Paradigm** – Techno-economics quiz & puzzles  
 - **GalaxEcon** – Space economics strategy challenge  
 - **Mock RBI** – Central bank simulation under crisis scenarios  
@@ -107,6 +107,7 @@ Economania 2025 was more than an event. It was:
 - A **proof of concept** that students can raise capital, build partnerships, and run professional-scale projects.  
 - A **movement** where innovation met impact.  
 - And above all — a reminder that **we don’t do mediocre things.**  
+
 
 
 
